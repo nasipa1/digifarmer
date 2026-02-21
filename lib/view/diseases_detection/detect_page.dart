@@ -1,8 +1,8 @@
 import 'dart:io';
-import 'package:digifarmer/constants/constants.dart';
-import 'package:digifarmer/provider/detection_provider.dart';
-import 'package:digifarmer/widgets/animation.dart';
-import 'package:digifarmer/widgets/detect_button.dart';
+import 'package:agriapp/constants/constants.dart';
+import 'package:agriapp/provider/detection_provider.dart';
+import 'package:agriapp/widgets/animation.dart';
+import 'package:agriapp/widgets/detect_button.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_tflite/flutter_tflite.dart';
@@ -310,7 +310,7 @@ class _DetectPageState extends State<DetectPage> {
           ),
           SizedBox(height: 35.h),
           Text(
-            'Digifarmer',
+            'AgriApp',
             style: Theme.of(context).textTheme.displayMedium!.copyWith(
                   fontFamily: GoogleFonts.righteous().fontFamily,
                   fontSize: 34.sp,

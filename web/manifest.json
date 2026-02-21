@@ -1,6 +1,6 @@
 {
-    "name": "digifarmer",
-    "short_name": "digifarmer",
+    "name": "agriapp",
+    "short_name": "agriapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

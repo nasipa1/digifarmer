@@ -1,15 +1,15 @@
 {
   "project_info": {
     "project_number": "945948737344",
-    "project_id": "digifarmer-1e693",
-    "storage_bucket": "digifarmer-1e693.appspot.com"
+    "project_id": "agriapp-1e693",
+    "storage_bucket": "agriapp-1e693.appspot.com"
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "1:945948737344:android:540b6ea81f1305f5bcc4a5",
         "android_client_info": {
-          "package_name": "com.example.digifarmer"
+          "package_name": "com.nasipa1.agriapp"
         }
       },
       "oauth_client": [
@@ -34,7 +34,7 @@
               "client_id": "945948737344-lupjog5s8t2vmcoli7t1ngmrf5stlgk6.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.example.digifarmer"
+                "bundle_id": "com.nasipa1.agriapp"
               }
             }
           ]

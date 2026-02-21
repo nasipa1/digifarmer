@@ -1,8 +1,8 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:digifarmer/db/preference_db.dart';
-import 'package:digifarmer/services/weather_service.dart';
+import 'package:agriapp/db/preference_db.dart';
+import 'package:agriapp/services/weather_service.dart';
 
 class WeatherProvider with ChangeNotifier {
   final WeatherService _weatherService = WeatherService();

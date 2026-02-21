@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:digifarmer/constants/constants.dart';
+import 'package:agriapp/constants/constants.dart';
 import 'package:http/http.dart' as http;
 
 class NewsService {

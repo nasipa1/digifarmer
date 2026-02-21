@@ -1,4 +1,4 @@
-import 'package:digifarmer/services/diseases_detail_service.dart';
+import 'package:agriapp/services/diseases_detail_service.dart';
 import 'package:flutter/foundation.dart';
 
 class DetectionProvider extends ChangeNotifier {

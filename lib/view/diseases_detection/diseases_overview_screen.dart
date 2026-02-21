@@ -1,5 +1,5 @@
-import 'package:digifarmer/view/diseases_detection/detect_page.dart';
-import 'package:digifarmer/widgets/animation.dart';
+import 'package:agriapp/view/diseases_detection/detect_page.dart';
+import 'package:agriapp/widgets/animation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -87,7 +87,7 @@ class DiseasesDetectionPage extends StatelessWidget {
                 top: 60.h,
                 left: 80.w,
                 child: Text(
-                  'Digifarmer',
+                  'AgriApp',
                   style: textStyle.copyWith(
                     fontSize: 34.sp,
                     color: Colors.white,

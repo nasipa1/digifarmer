@@ -1,7 +1,7 @@
-import 'package:digifarmer/services/auth_service.dart';
-import 'package:digifarmer/widgets/my_button.dart';
-import 'package:digifarmer/widgets/my_text_field.dart';
-import 'package:digifarmer/widgets/squre_tile.dart';
+import 'package:agriapp/services/auth_service.dart';
+import 'package:agriapp/widgets/my_button.dart';
+import 'package:agriapp/widgets/my_text_field.dart';
+import 'package:agriapp/widgets/squre_tile.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';

@@ -1,9 +1,9 @@
-import 'package:digifarmer/provider/weather_provider.dart';
-import 'package:digifarmer/theme/constants.dart';
-import 'package:digifarmer/view/diseases_detection/detect_page.dart';
-import 'package:digifarmer/view/home/widgets/slider.dart';
-import 'package:digifarmer/widgets/animation.dart';
-import 'package:digifarmer/widgets/detect_button.dart';
+import 'package:agriapp/provider/weather_provider.dart';
+import 'package:agriapp/theme/constants.dart';
+import 'package:agriapp/view/diseases_detection/detect_page.dart';
+import 'package:agriapp/view/home/widgets/slider.dart';
+import 'package:agriapp/widgets/animation.dart';
+import 'package:agriapp/widgets/detect_button.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -42,7 +42,7 @@ class _HomePageState extends State<HomePage> {
                           Row(
                             children: [
                               Text(
-                                'Digifarmer',
+                                'AgriApp',
                                 style: Theme.of(context)
                                     .textTheme
                                     .displayMedium!

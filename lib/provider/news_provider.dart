@@ -1,5 +1,5 @@
-import 'package:digifarmer/models/news_model.dart';
-import 'package:digifarmer/services/news_service.dart';
+import 'package:agriapp/models/news_model.dart';
+import 'package:agriapp/services/news_service.dart';
 import 'package:flutter/material.dart';
 
 class NewsProvider extends ChangeNotifier {

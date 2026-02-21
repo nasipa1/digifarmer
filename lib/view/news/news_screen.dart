@@ -1,9 +1,9 @@
-import 'package:digifarmer/provider/network_checker_provider.dart';
-import 'package:digifarmer/provider/news_provider.dart';
-import 'package:digifarmer/view/news/controller/pagination_scroll_control.dart';
-import 'package:digifarmer/view/news/news_detail_screen.dart';
-import 'package:digifarmer/widgets/animation.dart';
-import 'package:digifarmer/widgets/no_internet.dart';
+import 'package:agriapp/provider/network_checker_provider.dart';
+import 'package:agriapp/provider/news_provider.dart';
+import 'package:agriapp/view/news/controller/pagination_scroll_control.dart';
+import 'package:agriapp/view/news/news_detail_screen.dart';
+import 'package:agriapp/widgets/animation.dart';
+import 'package:agriapp/widgets/no_internet.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:google_fonts/google_fonts.dart';

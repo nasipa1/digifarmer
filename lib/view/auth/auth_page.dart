@@ -1,5 +1,5 @@
-import 'package:digifarmer/application.dart';
-import 'package:digifarmer/view/auth/login_or_register.dart';
+import 'package:agriapp/application.dart';
+import 'package:agriapp/view/auth/login_or_register.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 

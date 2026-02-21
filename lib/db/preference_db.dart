@@ -1,4 +1,4 @@
-import 'package:digifarmer/theme/app_theme.dart';
+import 'package:agriapp/theme/app_theme.dart';
 import 'package:flutter/material.dart';
 
 import 'package:shared_preferences/shared_preferences.dart';

@@ -1,8 +1,8 @@
-import 'package:digifarmer/provider/myapp_provider.dart';
-import 'package:digifarmer/provider/network_checker_provider.dart';
-import 'package:digifarmer/provider/news_provider.dart';
-import 'package:digifarmer/provider/weather_provider.dart';
-import 'package:digifarmer/services/diseases_detail_service.dart';
+import 'package:agriapp/provider/myapp_provider.dart';
+import 'package:agriapp/provider/network_checker_provider.dart';
+import 'package:agriapp/provider/news_provider.dart';
+import 'package:agriapp/provider/weather_provider.dart';
+import 'package:agriapp/services/diseases_detail_service.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';

@@ -53,18 +53,18 @@ class DefaultFirebaseOptions {
     apiKey: 'AIzaSyBh7bcxrsB4cZN7Yzls9q2wsVI9x6niDck',
     appId: '1:945948737344:android:540b6ea81f1305f5bcc4a5',
     messagingSenderId: '945948737344',
-    projectId: 'digifarmer-1e693',
-    storageBucket: 'digifarmer-1e693.appspot.com',
+    projectId: 'agriapp-1e693',
+    storageBucket: 'agriapp-1e693.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyAhn6EvgCPWag5KHZHggNW1AS5LmVT9ul8',
     appId: '1:945948737344:ios:34de70b4401afd07bcc4a5',
     messagingSenderId: '945948737344',
-    projectId: 'digifarmer-1e693',
-    storageBucket: 'digifarmer-1e693.appspot.com',
+    projectId: 'agriapp-1e693',
+    storageBucket: 'agriapp-1e693.appspot.com',
     iosClientId: '945948737344-lupjog5s8t2vmcoli7t1ngmrf5stlgk6.apps.googleusercontent.com',
-    iosBundleId: 'com.example.digifarmer',
+    iosBundleId: 'com.nasipa1.agriapp',
   );
 
 }

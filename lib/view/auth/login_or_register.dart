@@ -1,5 +1,5 @@
-import 'package:digifarmer/view/auth/login_page.dart';
-import 'package:digifarmer/view/auth/register.dart';
+import 'package:agriapp/view/auth/login_page.dart';
+import 'package:agriapp/view/auth/register.dart';
 import 'package:flutter/material.dart';
 
 class LoginOrRegister extends StatefulWidget {

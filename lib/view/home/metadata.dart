@@ -1,7 +1,7 @@
-import 'package:digifarmer/provider/weather_provider.dart';
-import 'package:digifarmer/view/diseases_detection/diseases_overview_screen.dart';
-import 'package:digifarmer/view/home/widgets/slider.dart';
-import 'package:digifarmer/widgets/detect_button.dart';
+import 'package:agriapp/provider/weather_provider.dart';
+import 'package:agriapp/view/diseases_detection/diseases_overview_screen.dart';
+import 'package:agriapp/view/home/widgets/slider.dart';
+import 'package:agriapp/widgets/detect_button.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
@@ -34,7 +34,7 @@ class _HomePageState extends State<HomePage> {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
-                        'Digifarmer',
+                        'AgriApp',
                         style: Theme.of(context)
                             .textTheme
                             .displayMedium!

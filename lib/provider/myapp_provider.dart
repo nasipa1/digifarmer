@@ -1,4 +1,4 @@
-import 'package:digifarmer/db/preference_db.dart';
+import 'package:agriapp/db/preference_db.dart';
 import 'package:flutter/material.dart';
 
 class MyappProvider extends ChangeNotifier {
